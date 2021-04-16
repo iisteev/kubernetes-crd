@@ -3,7 +3,7 @@ kind: Kustomization
 namespace: chaostoolkit-crd
 
 resources:
-- ./ns.yaml
+- ./chaostoolkit-crd-ns.yaml
 - ./serviceaccount.yaml
 - ./crd.yaml
 - ./configmap.yaml

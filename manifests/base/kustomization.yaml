@@ -7,4 +7,5 @@ commonLabels:
   app: chaostoolkit-crd
 
 resources:
+- ./chaostoolkit-run-ns.yaml
 - ./common
